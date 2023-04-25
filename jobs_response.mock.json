@@ -1,0 +1,680 @@
+{
+    "jobs": {
+        "total": {
+            "value": 10000,
+            "relation": "gte"
+        },
+        "items": [
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "4d394b45-2176-448d-91db-86dffabe44c0",
+                    "job_role": "\"ANGULARJS DEVELOPER\"",
+                    "date_posted": "2022-11-30T00:00:00Z",
+                    "salary_range": "INR 500000-2000000 Year",
+                    "source": "TimesJobs",
+                    "education": "Any Graduate",
+                    "experience": "4-6 Years",
+                    "industry": "IT",
+                    "location": "India",
+                    "company_name": "Soul Company It Services Pvt.Ltd.",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Bootstrap (Front-End Framework),TypeScript,HTML,Product Design,Subsystems,Unit Testing,Automation,Test Automation,Debugging,Performance Analysis,Web Applications,JavaScript (Programming Language),JavaScript Frameworks,JavaScript,Architectural Patterns,Data Structures,Angular.js,Angular (Web Framework),Angular,Java (Programming Language),Java,React.js",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "IT-Software",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p><span style=\"font-family:times new roman,times,serif; font-size:10pt\"><strong>AngularDeveloper</strong></span></p><p><span style=\"font-family:times new roman,times,serif; font-size:10pt\"><strong>Exp - 4 Years - 8 Years</strong></span></p><p><span style=\"font-family:times new roman,times,serif; font-size:10pt\"><strong>Location - Pune / Bangalore / Chennai</strong></span></p><p></p><p></p><p><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"><strong>Must have skills -</strong></span><span style=\"font-family:inherit; font-size:11pt\"><strong><span style=\"font-family:cambria,georgia,serif; font-size:10pt\">Angularlatestversions/ Bootstrap / Typescript/ HTML</span></strong></span></p><p></p><p><strong><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"><u>Skill sets</u></span><span style=\"font-family:inherit; font-size:11pt\"><u><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></u></span><span style=\"font-family:cambria,georgia,serif; font-size:10pt\">-</span></strong></p><ol><li>Participate in product design, development, verification, troubleshooting, and delivery of a<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">system or major subsystems</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">Writing project specifications and release documentation and/or all phases of the product</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">development cycle from product definition and design, through implementation including:</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span><ul><li><span style=\"font-family:inherit; font-size:inherit\">Testing and/or Unit Testing</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">Designing</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">Test automation</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">Debugging</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">Reliability</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li><span style=\"font-family:inherit; font-size:inherit\">Performance analysis</span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li></ul></li><li><span style=\"font-family:inherit; font-size:inherit\">Willing to work on additional tasks and responsibilities that will contribute towards team,</span>department, and company goals<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Strong knowledge in web technologies<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Hands on developing web applications using<span style=\"font-family:calibri,sans-serif; font-size:11pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span><strong>HTML, CSS, JavaScript and JavaScript frameworks</strong><strong><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></strong></li><li><span style=\"font-family:cambria,georgia,serif; font-size:10pt\">In depth experience on</span><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"><strong>Angularlatestversions.</strong></span><span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Knowledge in design patterns and architectural patterns<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Strong generalist understanding of concepts related to computer architecture, data structures andstandard programming practices<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Creative and analytical approach to problem solving<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Strong aptitudeforlearning new technologies<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Possess excellent written and verbal communication skills<span style=\"font-family:segoe ui,sans-serif; font-size:9pt\"><span style=\"font-family:cambria,georgia,serif; font-size:10pt\"></span></span></li><li>Work collaboratively within a team of other engineers and have strong influencing and leadershipskills</li></ol>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/angularjs-developer-soul-company-it-services-pvt-ltd-bengaluru-bangalore-chennai-pune-4-to-6-yrs-jobid-vSUCz__SLASH__XeFZJzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"ANGULARJS DEVELOPER\"",
+                    "soft_skills": "Troubleshooting (Problem Solving),Writing,Reliability,Analysis,Understanding,Problem Solving,Verbal Communication Skills,Verbal Communication,Communication Skills",
+                    "job_location": "Bengaluru/ Bangalore (Karnataka), Chennai (Tamil Nadu), Pune (Maharashtra)",
+                    "closing_date": "28/01/2023",
+                    "key_skills": "Angular,springboot,java,typescript,reactjs",
+                    "knowledge_domain": "Application Programming",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "AngularÂ Developer\nExp - 4 Years - 8 Years\nLocation - Pune / Bangalore / Chennai\nMust have skills -\nAngularÂ latestÂ versions/ Bootstrap / Typescript/ HTML\nSkill sets\n-\nParticipate in product design, development, verification, troubleshooting, and delivery of a\nsystem or major subsystems\nWriting project specifications and release documentation and/or all phases of the product\ndevelopment cycle from product definition and design, through implementation including:\nTesting and/or Unit Testing\nDesigning\nTest automation\nDebugging\nReliability\nPerformance analysis\nWilling to work on additional tasks and responsibilities that will contribute towards team,\ndepartment, and company goals\nStrong knowledge in web technologies\nHands on developing web applications using\nHTML, CSS, JavaScript and JavaScript frameworks\nIn depth experience on\nAngularÂ latestÂ versions.\nKnowledge in design patterns and architectural patterns\nStrong generalist understanding of concepts related to computer architecture, data structures andÂ standard programming practices\nCreative and analytical approach to problem solving\nStrong aptitudeÂ forÂ learning new technologies\nPossess excellent written and verbal communication skills\nWork collaboratively within a team of other engineers and have strong influencing and leadershipÂ skills",
+                    "Transform_Salary_Bin": "INR 1200000-1500000 Year",
+                    "Transform_Experience_Bin": "5-8 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"ANGULARJS DEVELOPER\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "c95ca3db-1f4c-48b8-9180-fb7837aba4e7",
+                    "job_role": "\"Accounts & Finance Executive\"",
+                    "date_posted": "2022-11-30T00:00:00Z",
+                    "salary_range": "INR 710000-1050000 Year",
+                    "source": "TimesJobs",
+                    "education": "Any Graduate",
+                    "experience": "2-7 Years",
+                    "industry": "Banking & Finance",
+                    "location": "India",
+                    "company_name": "Electrobrain Modern Technologies Pvt Ltd",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Accounting,Financial Statements,Accounts Payable,Cash Flows,Receivables,Investments,Financial Analysis,Account Management,Trade Finance,Loans,Business Requirements",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "Accounting-Tax/Consulting,  Financial Services/Stockbroking",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <ul><li>Record all accounting transactions in the ERP/ accounting software used by the PC at the time</li><li>Maintaining proper paperwork for all the financial transactions</li><li>Monitor actual vs. budgeted expenses Keeping all the documents updated for reference of auditors during surprise or planned audits.</li><li>Preparing financial statements in time</li><li>Handle monthly, quarterly and annual closings Reconcile accounts payable and receivable</li><li>Ensure timely bank payments</li><li>Compute taxes and prepare and file tax returns timely</li><li>Assisting the finance manager of the producer enterprise in the following:</li><li>Timely and qualitative preparation and submission of financial reports to the management.</li><li>Compile, review and analyze monthly, quarterly and full year forecasts in a timely manner.</li><li>Manage the cash flows of the company by constant monitoring of inventory, accounts receivables and payables.</li><li>Continuous improvements in the existing systems of Producer Companies Financial procedures through reviewing the current procedures regularly.</li><li>Coordinating with internal and external auditors, bankers, Tax Agents etc.</li><li>Reviewing company's capital investments and suggesting other profitable future opportunities.</li><li>Monitor and provide guidance to company management to ensure statutory compliance related to Registrar of Companies / Tax Authorities / Import Export Authority / Department of Weights and Measures/Customs etc.</li><li>Timely Submission of Utilization Certificate to be given to the Grant Donor.</li><li>Implementing financial and related strategies that help the company in achieving its targeted growth rate.</li><li>Implementing and suggesting financial tools and other IT tools which helps in proper recording and maintaining the information used in the business.</li></ul>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/accounts-finance-executive-electrobrain-modern-technologies-pvt-ltd-delhi-delhi-ncr-gurgaon-noida-greater-noida-chandigarh-2-to-7-yrs-jobid-GqAlaMOMbvlzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Accounts & Finance Executive\"",
+                    "soft_skills": "Management,Monitoring,Coordinating,Analysis",
+                    "job_location": "Delhi (Delhi), Delhi/ NCR (Delhi), Gurgaon (Haryana), Noida/ Greater Noida (Uttar Pradesh), Chandigarh (Punjab)",
+                    "closing_date": "28/01/2023",
+                    "key_skills": "Financial Analysis,Tally,ERP,Accounting,Account Management,Trade Finance,Banking,Loans,Credit,Clients,Business Requirements",
+                    "knowledge_domain": "Audit & Risk,Import/Export Accounting,Credit Control & Collections,Debt Instrument",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Record all accounting transactions in the ERP/ accounting software used by the PC at the time\nMaintaining proper paperwork for all the financial transactions\nMonitor actual vs. budgeted expenses Keeping all the documents updated for reference of auditors during surprise or planned audits.\nPreparing financial statements in time\nHandle monthly, quarterly and annual closings Reconcile accounts payable and receivable\nEnsure timely bank payments\nCompute taxes and prepare and file tax returns timely\nAssisting the finance manager of the producer enterprise in the following:\nTimely and qualitative preparation and submission of financial reports to the management.\nCompile, review and analyze monthly, quarterly and full year forecasts in a timely manner.\nManage the cash flows of the company by constant monitoring of inventory, accounts receivables and payables.\nContinuous improvements in the existing systems of Producer Companies Financial procedures through reviewing the current procedures regularly.\nCoordinating with internal and external auditors, bankers, Tax Agents etc.\nReviewing company's capital investments and suggesting other profitable future opportunities.\nMonitor and provide guidance to company management to ensure statutory compliance related to Registrar of Companies / Tax Authorities / Import Export Authority / Department of Weights and Measures/Customs etc.\nTimely Submission of Utilization Certificate to be given to the Grant Donor.\nImplementing financial and related strategies that help the company in achieving its targeted growth rate.\nImplementing and suggesting financial tools and other IT tools which helps in proper recording and maintaining the information used in the business.",
+                    "Transform_Salary_Bin": "INR 600000-900000 Year",
+                    "Transform_Experience_Bin": "5-8 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Accounts & Finance Executive\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "1913397e-369e-4a6f-9fc3-55789e827212",
+                    "job_role": "\"Accounts & Finance Executive\"",
+                    "date_posted": "2022-12-09T00:00:00Z",
+                    "salary_range": "INR 310000-540000 Year",
+                    "source": "TimesJobs",
+                    "education": "Any Graduate",
+                    "experience": "2-7 Years",
+                    "industry": "Banking & Finance",
+                    "location": "India",
+                    "company_name": "Electrobrain Modern Technologies Pvt Ltd",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Accounting,Accounts Payable,Auditing,Balance Sheet,Profit And Loss (P&L) Management,Receivables,Sales Tax,Financial Statements,Financial Services,Portfolio Analysis,General Ledger,Internal Audit,Payroll Systems",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "Banking,  Financial Services/Stockbroking",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p>Documents financial transactions by entering account information. â¢ Recommends financial actions by analyzing accounting options. â¢ Summarizes current financial status by collecting information; preparing balance sheet, profit and loss statement, and other reports. â¢ Substantiates financial transactions by auditing documents. â¢ Prepares asset, liability, and capital account entries by compiling and analyzing account information. â¢ Keep tracks of Accounts Payable &amp; Receivables. â¢ Responsible for generating sales tax invoices to customers â¢ Responsible to oversee tax matters with FBR &amp; other Govt. agencies ( with the help of legal consultant) â¢ Responsible for looking after banking matters.</p>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/accounts-finance-executive-electrobrain-modern-technologies-pvt-ltd-ahmedabad-mumbai-pune-mangalore-mysoru-mysore-2-to-7-yrs-jobid-HlqMUtv81flzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Accounts & Finance Executive\"",
+                    "soft_skills": "Responsible,Sales,Analysis",
+                    "job_location": "Ahmedabad (Gujarat), Mumbai (Maharashtra), Pune (Maharashtra), Mangalore (Karnataka), Mysoru/ Mysore (Karnataka)",
+                    "closing_date": "06/02/2023",
+                    "key_skills": "Financial Statements,Financial Services,Banking Financial Services,Portfolio Analysis,IBM,GAAP,General Ledger,Internal Audit Plan,Payroll Systems",
+                    "knowledge_domain": "Finance/Budgeting,Financial Analysis,Bank Assurance,Banking -General",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Documents financial transactions by entering account information. â¢ Recommends financial actions by analyzing accounting options. â¢ Summarizes current financial status by collecting information; preparing balance sheet, profit and loss statement, and other reports. â¢ Substantiates financial transactions by auditing documents. â¢ Prepares asset, liability, and capital account entries by compiling and analyzing account information. â¢ Keep tracks of Accounts Payable & Receivables. â¢ Responsible for generating sales tax invoices to customers â¢ Responsible to oversee tax matters with FBR & other Govt. agencies ( with the help of legal consultant) â¢ Responsible for looking after banking matters.",
+                    "Transform_Salary_Bin": "Upto INR 600000 Year",
+                    "Transform_Experience_Bin": "5-8 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Accounts & Finance Executive\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "531450cb-b6cb-4a13-a477-5732e4fc6730",
+                    "job_role": "\"Accounts Analyst\"",
+                    "date_posted": "2022-12-03T00:00:00Z",
+                    "salary_range": "",
+                    "source": "TimesJobs",
+                    "education": "B.Com. (Commerce)",
+                    "experience": "1-3 Years",
+                    "industry": "Banking & Finance",
+                    "location": "India",
+                    "company_name": "Gt Solusn",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Special Characters",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "Gems & Jewellery",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p>Hiring Female for Back Office</p><p>Applications are invited only from Jaipur</p><p>Qualifications : Graduate</p><p>Only Commerce Graduate Female from Jaipur with Computer Knowledge and MS Office Expert with experience in Advance Excel &amp; Tally</p><p>Experience : 0-2 yrs</p><p>Location : Jaipur</p><p>mail cv at (gtsolusn.hrgmailcom) Please add special characters to this mail ID</p><p>(References are invited and Immediate joinees are welcome)</p><p>Job Description-<br>- Proficient inExcel(Must Needed), Good at shortcuts, and formulas.candidate with Knowledge of Advance Excel will be an additive advantage and will be preferred<br>- Basic Knowledge of backend work<br>- must be good in mailing systems<br>- good in communication skills</p><p>can mantain work MIS and acconting procedures for an Export Company</p><p><br>.</p><p>WORK FROM OFFICE ONLY</p>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/accounts-analyst-gt-solusn-jaipur-1-to-3-yrs-jobid-ONhoCfAcMHhzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Accounts Analyst\"",
+                    "soft_skills": "Communication Skills",
+                    "job_location": "Jaipur (Rajasthan)",
+                    "closing_date": "01/02/2023",
+                    "key_skills": "\"Back Office\"",
+                    "knowledge_domain": "Account Services",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Hiring Female for Back Office\nApplications are invited only from Jaipur\nQualifications : Graduate\nOnly Commerce Graduate Female from JaipurÂ  with ComputerÂ  Knowledge and MS Office Expert with experience in Advance Excel & Tally\nExperience : 0-2 yrs\nLocation : Jaipur\nmail cv at (gtsolusn.hrgmailcom) Please add special characters to this mail ID\n(References are invited and Immediate joinees are welcome)\nJob Description-\n- Proficient inÂ Excel(Must Needed), Good at shortcuts, and formulas.candidate with Knowledge of Advance Excel will be an additive advantage and will be preferred\n- Basic Knowledge of backend work\n- must be good in mailing systems\n- good in communication skills\ncan mantain work MIS and acconting procedures for an Export Company\n.\nWORK FROM OFFICE ONLY",
+                    "Transform_Salary_Bin": "",
+                    "Transform_Experience_Bin": "0-2 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Accounts Analyst\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "2636ea88-a320-4ca6-9189-7dc9f0d5f2a9",
+                    "job_role": "\"Agency Sales Manager\"",
+                    "date_posted": "2022-11-29T00:00:00Z",
+                    "salary_range": "INR 405000-405000 Year",
+                    "source": "TimesJobs",
+                    "education": "CA (Chartered Accountant),  CS (Company Secretary),  ICWA,  M.Arch. (Architecture),  M.Com. (Commerce),  M.Ed. (Education),  M.Pharm. (Pharmacy),  M.Phil. (Philosophy),  M.Sc. (Science),  MA (Arts),  MBA/ PGDM,  MCA/ PGDCA,  MD/ MS (Medicine),  ME/ M.Tech./ MS (Engg/ Sciences),  Master of Dental Surgery (MDS),  ML/ LLM (Law)",
+                    "experience": "1-4 Years",
+                    "industry": "Banking & Finance",
+                    "location": "India",
+                    "company_name": "Icici Prudential Ahmedabad India.",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Recruiting,Drawing,Dental Surgery",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "Banking,  Insurance",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p>We are looking for highly motivated Candidates with Sales Background who can work with team and work in field</p><p><strong>Position Title: </strong>Agency Sales Manager</p><p><strong>Experience: 1 â 3 Years</strong></p><p><strong>Location: </strong>Surat</p><p><strong>Job Roles and Responsibilities:</strong></p><ul><li>Recruiting, screening, and training new agents.</li><li>Analyzing performance and drawing up action plans.</li><li>Establishing strong relationships with staff and clients.</li><li>Ensuring all staff exercise good time management.</li><li>Obeying agency regulations, guidelines, and policies, and ensuring staff does the same.</li><li>Researching current industry/market trends and using knowledge for business improvement.</li></ul><p><strong>Other Perks and Benefits:</strong></p><ul><li>The Opportunity to earn a very high income</li><li>A defined pathway into management</li><li>Incentive + Other benefit + Bounces</li><li>Family insurances</li><li>Petrol + Mobile Allowance</li></ul><p></p><p><strong>Desired candidate profile:</strong></p><ul><li>Min 2 year experiences sales and marketing</li><li>Must be graduation</li><li>Local candidate</li><li>Age: 25 to 35 years</li><li>CTC: Up to 4 LPA</li></ul><p></p><p><strong>Interested Candidate kindly Share your resume on 8200421048 | Avanik</strong></p><p></p>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/agency-sales-manager-icici-prudential-ahmedabad-india-ahmedabad-rajkot-vadodara-1-to-4-yrs-jobid-cymbMFA9MWNzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Agency Sales Manager\"",
+                    "soft_skills": "Motivated,Sales,Time Management,Management",
+                    "job_location": "Ahmedabad (Gujarat), Rajkot (Gujarat), Vadodara (Gujarat)",
+                    "closing_date": "31/12/2022",
+                    "key_skills": "Sales,Marketing,CASA,BFSI,CARD,FMCG,Pharma,B2B,B2C,Cross Sales,Direct Sales,Field,Agency,Insurance,Advisor,Telecom,Retails,Banking,Finance,Broking,Micro Finance",
+                    "knowledge_domain": "Loan/Mortgage,Mutual Funds,Personal/ Retail Banking",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "Chartered Accountant",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "We are looking for highly motivated Candidates with Sales Background who can work with team and work in field\nPosition Title:\nAgency Sales Manager\nExperience: 1 â 3 Years\nLocation:\nSurat\nJob Roles and Responsibilities:\nRecruiting, screening, and training new agents.\nAnalyzing performance and drawing up action plans.\nEstablishing strong relationships with staff and clients.\nEnsuring all staff exercise good time management.\nObeying agency regulations, guidelines, and policies, and ensuring staff does the same.\nResearching current industry/market trends and using knowledge for business improvement.\nOther Perks and Benefits:\nThe Opportunity to earn a very high income\nA defined pathway into management\nIncentive + Other benefit + Bounces\nFamily insurances\nPetrol + Mobile Allowance\nDesired candidate profile:\nMin 2 year experiences sales and marketing\nMust be graduation\nLocal candidate\nAge: 25 to 35 years\nCTC: Up to 4 LPA\nInterested Candidate kindly Share your resume on 8200421048 | Avanik",
+                    "Transform_Salary_Bin": "Upto INR 600000 Year",
+                    "Transform_Experience_Bin": "3-5 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Agency Sales Manager\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "d74341ef-de08-4c79-b11c-5a6af288d99a",
+                    "job_role": "\"Andriod Developer\"",
+                    "date_posted": "2022-12-07T00:00:00Z",
+                    "salary_range": "INR 505000-600000 Year",
+                    "source": "TimesJobs",
+                    "education": "MCA/ PGDCA,  ME/ M.Tech./ MS (Engg/ Sciences)                                                               (Computer Science                                            )",
+                    "experience": "2-3 Years",
+                    "industry": "IT",
+                    "location": "India",
+                    "company_name": "Sujanix Private Limited",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Computer Science,Firebase,Material Design,Kotlin",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "IT-Software",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p><strong>Position: Andriod developer, 2yrs exp,</strong></p><p><strong>Job Description</strong></p><p>Mobile application developer with minimum 2yrs of experience in building mobile apps through java/kotlin programming.</p><p><strong>Qualification</strong></p><p>B.E, B.tech, MCA, Mtech degree in computer science engineering or related subject.</p><p><strong>Must Have</strong></p><ul><li>knowledge of java/Kotlin programming.</li><li>Knowledge in using RESTful APIs</li><li>Knowledge in development IDE Andriod studio, Andriod SDK, Firebase Test Lab</li><li>Understanding of SDLC</li><li>Knowledge of material design and andriod UI design principles, patterns and best practices</li><li>Knowledge of adding third party libraries</li><li>Good communication skill.</li></ul><p></p>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/andriod-developer-sujanix-private-limited-bengaluru-bangalore-2-to-3-yrs-jobid-Z0UXWZYXDIxzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Andriod Developer\"",
+                    "soft_skills": "Understanding",
+                    "job_location": "Bengaluru/ Bangalore (Karnataka)",
+                    "closing_date": "04/02/2023",
+                    "key_skills": "Kotlin,Andriod SDK,SDLC,Material design,Andriod Ui design,Andriod Studio,Restful apis",
+                    "knowledge_domain": "Application Programming",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Position: Andriod developer, 2yrs exp,\nJob Description\nMobile application developer with minimum 2yrs of experience in building mobile apps through java/kotlin programming.\nQualification\nB.E, B.tech, MCA, Mtech degree in computer science engineering or related subject.\nMust Have\nknowledge of java/Kotlin programming.\nKnowledge in using RESTful APIs\nKnowledge in development IDE Andriod studio, Andriod SDK, Firebase Test Lab\nUnderstanding of SDLC\nKnowledge of material design and andriod UI design principles, patterns and best practices\nKnowledge of adding third party libraries\nGood communication skill.",
+                    "Transform_Salary_Bin": "Upto INR 600000 Year",
+                    "Transform_Experience_Bin": "3-5 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Andriod Developer\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "58defb34-9075-48df-92f6-04c4ad9eaf57",
+                    "job_role": "\"Andriod Developer\"",
+                    "date_posted": "2022-12-14T00:00:00Z",
+                    "salary_range": "INR 300000-300000 Year",
+                    "source": "TimesJobs",
+                    "education": "MCA/ PGDCA,  ME/ M.Tech./ MS (Engg/ Sciences)                                                               (Computer Science,  Computer Science                                            )",
+                    "experience": "0-1 Years",
+                    "industry": "IT",
+                    "location": "India",
+                    "company_name": "Sujanix Private Limited",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "React Native,JavaScript (Programming Language),Syntax,TypeScript,JavaScript,Debugging,Android Studio,Build Tools,Gradle,Computer Science,Java (Programming Language),Java,Kotlin",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "IT-Software",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p><strong><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">Job Role: - Andriod/Mobile App Developer</span></strong></p><p><strong><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">Experience: - 0â 1 years.</span></strong></p><p><strong><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">Qualification: - BE/BTech.</span></strong></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><strong><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">Job Description</span></strong></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">We are looking for a Andriod/Mobile App developer on react native interested in building performant mobile apps on both the iOS and Android platforms. You will be responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure. Building a product is a highly collaborative effort, and as such, a strong team player with a commitment to perfection is required.</span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><strong><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">Responsibilities</span></strong></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">- Build pixel-perfect, buttery smooth UIs across both mobile platforms.<br>- Leverage native APIs for deep integrations with both platforms.<br>- Diagnose and fix bugs and performance bottlenecks for performance that feels native.<br>- Reach out to the open source community to encourage and help implement mission-critical software fixesâReact Native moves fast and often breaks things.<br>- Maintain code and write automated tests to ensure the product is of the highest quality.<br>- Transition existing React web apps to React Native.<br>- {{Add any other relevant responsibilities here}}</span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><strong><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">Skills</span></strong></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">- Firm grasp of the JavaScript {{and TypeScript or ClojureScript}}language and its nuances, including ES6+ syntax<br>- Knowledge of {{functional or object-oriented}}programming<br>- Ability to write well-documented, clean Javascript code<br>- Rock solid at working with third-party dependencies and debugging dependency conflicts<br>- Familiarity with native build tools, like XCode, Gradle {{Android Studio, IntelliJ}}</span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\">- Understanding of REST APIs, the document request model, and offline storage<br>- Experience with automated testing suites, like {{Jest or Mocha}}</span></p><p><span style=\"font-family:segoe ui,sans-serif; font-size:10.5pt\"></span></p>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/andriod-developer-sujanix-private-limited-bengaluru-bangalore-0-to-1-yrs-jobid-A0hRKlG97__SLASH__dzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Andriod Developer\"",
+                    "soft_skills": "Coordinating,Commitment,Responsible,Team Player,Collaborative,Understanding",
+                    "job_location": "Bengaluru/ Bangalore (Karnataka)",
+                    "closing_date": "11/02/2023",
+                    "key_skills": "Andriod studio,Java,Kotlin,React native",
+                    "knowledge_domain": "Application Programming",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Job Role: - Andriod/Mobile App Developer\nExperience: - 0â 1 years.\nQualification: - BE/BTech.\nJob Description\nWe are looking for a Andriod/Mobile App developer on react native interested in building performant mobile apps on both the iOS and Android platforms. You will be responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure. Building a product is a highly collaborative effort, and as such, a strong team player with a commitment to perfection is required.\nResponsibilities\n- Build pixel-perfect, buttery smooth UIs across both mobile platforms.\n- Leverage native APIs for deep integrations with both platforms.\n- Diagnose and fix bugs and performance bottlenecks for performance that feels native.\n- Reach out to the open source community to encourage and help implement mission-critical software fixesâReact Native moves fast and often breaks things.\n- Maintain code and write automated tests to ensure the product is of the highest quality.\n- Transition existing React web apps to React Native.\n- {{Add any other relevant responsibilities here}}\nSkills\n- Firm grasp of the JavaScript {{and TypeScript or ClojureScript}}Â language and its nuances, including ES6+ syntax\n- Knowledge of {{functional or object-oriented}}Â programming\n- Ability to write well-documented, clean Javascript code\n- Rock solid at working with third-party dependencies and debugging dependency conflicts\n- Familiarity with native build tools, like XCode, Gradle {{Android Studio, IntelliJ}}\n- Understanding of REST APIs, the document request model, and offline storage\n- Experience with automated testing suites, like {{Jest or Mocha}}",
+                    "Transform_Salary_Bin": "Upto INR 600000 Year",
+                    "Transform_Experience_Bin": "0-2 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Andriod Developer\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "c31f7f49-73f6-4482-9fa0-88b33147b45e",
+                    "job_role": "\"Android / iOS Developer\"",
+                    "date_posted": "2022-12-15T00:00:00Z",
+                    "salary_range": "INR 525000-1500000 Year",
+                    "source": "TimesJobs",
+                    "education": "Any Graduate",
+                    "experience": "3-8 Years",
+                    "industry": "IT",
+                    "location": "India",
+                    "company_name": "Harryinternational.Pvt.Ltd",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "App Store (IOS)",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "IT-Software",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p><span style=\"font-family:-apple-system,system-ui,blinkmacsystemfont,segoe ui,roboto,helvetica neue,fira sans,ubuntu,oxygen,oxygen sans,cantarell,droid sans,apple color emoji,segoe ui emoji,segoe ui emoji,segoe ui symbol,lucida grande,helvetica,arial,sans-serif; font-size:14px\">Hello, </span></p><p><span style=\"font-family:-apple-system,system-ui,blinkmacsystemfont,segoe ui,roboto,helvetica neue,fira sans,ubuntu,oxygen,oxygen sans,cantarell,droid sans,apple color emoji,segoe ui emoji,segoe ui emoji,segoe ui symbol,lucida grande,helvetica,arial,sans-serif; font-size:14px\">I have an Excellent Opportunity for Developer</span></p><p><span style=\"font-family:-apple-system,system-ui,blinkmacsystemfont,segoe ui,roboto,helvetica neue,fira sans,ubuntu,oxygen,oxygen sans,cantarell,droid sans,apple color emoji,segoe ui emoji,segoe ui emoji,segoe ui symbol,lucida grande,helvetica,arial,sans-serif; font-size:14px\">What's app :- 7862012172</span></p><p></p><p></p><p><strong>Requirements (good to have)</strong></p><p></p><ul><li><span style=\"font-family:verdana,sans-serif\">Hands-on knowledge of Objective C</span></li><li><span style=\"font-family:verdana,sans-serif\">Hands-on knowledge of SwiftUI</span></li><li><span style=\"font-family:verdana,sans-serif\">Knowledge of App Publishing on the App Store;</span></li><li><span style=\"font-family:verdana,sans-serif\">Knowledge of RevenueCat</span></li><li><span style=\"font-family:verdana,sans-serif\">Knowledge of implementing In-app purchase and subscriptions</span></li><li><span style=\"font-family:verdana,sans-serif\">Ambition married with character</span></li><li><span style=\"font-family:verdana,sans-serif\">Worked on Photo &amp; Video. Business. Finance. Social Media. Productivity. All major app categories.</span></li></ul>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/android-ios-developer-harryinternational-pvt-ltd-ahmedabad-3-to-8-yrs-jobid-n4s5Nc9QE3NzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Android / iOS Developer\"",
+                    "soft_skills": "",
+                    "job_location": "Ahmedabad (Gujarat)",
+                    "closing_date": "13/02/2023",
+                    "key_skills": "swift",
+                    "knowledge_domain": "Application Programming",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Hello,\nI have an Excellent Opportunity for Developer\nWhat's app :- 7862012172\nRequirements (good to have)\nHands-on knowledge of Objective C\nHands-on knowledge of SwiftUI\nKnowledge of App Publishing on the App Store;\nKnowledge of RevenueCat\nKnowledge of implementing In-app purchase and subscriptions\nAmbition married with character\nWorked on Photo & Video. Business. Finance. Social Media. Productivity. All major app categories.",
+                    "Transform_Salary_Bin": "INR 900000-1200000 Year",
+                    "Transform_Experience_Bin": "5-8 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Android / iOS Developer\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "3f4dd9a0-17ce-4834-acdf-6ca804fb35d2",
+                    "job_role": "\"Android / iOS Developer\"",
+                    "date_posted": "2022-12-04T00:00:00Z",
+                    "salary_range": "",
+                    "source": "TimesJobs",
+                    "education": "CA (Chartered Accountant),  CS (Company Secretary),  ICWA,  M.Arch. (Architecture),  M.Com. (Commerce),  M.Ed. (Education),  M.Pharm. (Pharmacy),  M.Phil. (Philosophy),  M.Sc. (Science),  MA (Arts),  MBA/ PGDM,  MCA/ PGDCA,  MD/ MS (Medicine),  ME/ M.Tech./ MS (Engg/ Sciences),  Master of Dental Surgery (MDS),  ML/ LLM (Law)",
+                    "experience": "0-2 Years",
+                    "industry": "IT",
+                    "location": "India",
+                    "company_name": "Telemania Services & Solutions",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Usability,JSON,Dental Surgery",
+                    "company_url": "http://www.telemaniaservices.com",
+                    "job_type": "Full Time",
+                    "sub_industry": "IT-Software,  Software Services",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <ul><li>Design and build advanced applications for the Android platform</li><li>Collaborate with cross-functional teams to define, design, and ship new features</li><li>Work with outside data sources and APIs</li><li>Unit-test code for robustness, including edge cases, usability, and general reliability</li><li>Work on bug fixing and improving application performance</li><li>Continuously discover, evaluate, and implement new technologies to maximize development efficiency</li><li>Proven working experience in Android app development and</li><li>Have published at least one original Android app</li><li>Experience with Android SDK</li><li>Experience working with remote data via REST and JSON</li><li>Benefits - Provide a Trainee</li></ul>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/android-ios-developer-telemania-services-solutions-patna-0-to-2-yrs-jobid-OftaFOurZ3pzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Android / iOS Developer\"",
+                    "soft_skills": "Reliability",
+                    "job_location": "Patna (Bihar)",
+                    "closing_date": "26/01/2023",
+                    "key_skills": "Programmer,software developer,software programmer",
+                    "knowledge_domain": "Application Programming,Business/Systems Analysis,Software Engineer,Training",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "Chartered Accountant",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Design and build advanced applications for the Android platform\nCollaborate with cross-functional teams to define, design, and ship new features\nWork with outside data sources and APIs\nUnit-test code for robustness, including edge cases, usability, and general reliability\nWork on bug fixing and improving application performance\nContinuously discover, evaluate, and implement new technologies to maximize development efficiency\nProven working experience in Android app development and\nHave published at least one original Android app\nExperience with Android SDK\nExperience working with remote data via REST and JSON\nBenefits - Provide a Trainee",
+                    "Transform_Salary_Bin": "",
+                    "Transform_Experience_Bin": "0-2 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Android / iOS Developer\"",
+                    1
+                ]
+            },
+            {
+                "_score": 1,
+                "_source": {
+                    "job_id": "c80ab54a-50df-11ec-ab34-5965dfe52d5c",
+                    "job_role": "\"Android / iOS Developer\"",
+                    "date_posted": "2022-12-09T00:00:00Z",
+                    "salary_range": "INR 300000-650000 Year",
+                    "source": "TimesJobs",
+                    "education": "Any Graduate",
+                    "experience": "0-3 Years",
+                    "industry": "Banking & Finance",
+                    "location": "India",
+                    "company_name": "Laxmi Infotech",
+                    "company_location": "",
+                    "company_logo": "",
+                    "tech_skills": "Mobile App,Flutter,Database,Data Structures,Sqoop,HDFS (Hadoop Distributed File System),Java (Programming Language),Java,MongoDB,Heroku",
+                    "company_url": "",
+                    "job_type": "Full Time",
+                    "sub_industry": "IT-Software",
+                    "role_description": "<div class=\"jd-desc job-description-main\" id=\"applyFlowHideDetails_2\">                <p><strong>Job Description :</strong></p><p>- Require an Android/Flutter developer having 1.5 year(s) to 2 years of experience.</p><p>- S/he must have the complete experience of executing a minimum two (2) mobile app projects using Flutter or ReactNative.<br><br><strong>Skills / Requirements :</strong><br><br>- Experience with Flutter or ReactNative<br><br>- Must have experience with Koltlin.<br><br>- Experience with Dart<br><br>- Experience launching and managing Production mobile apps</p><p>- Experience authoring, testing, and deploying code mission-critical applications<br><br>- Basic Database concepts<br><br>- OOPS concepts<br><br>- Data Structures<br><br>- Experience developing integrations with common APIs (e.g., Firebase, Google, etc.)<br><br>- Awareness of Android or iOS platforms Latest Versions, Features of latest OS versions</p>        </div>",
+                    "redirect_url": "https://www.timesjobs.com/job-detail/android-ios-developer-laxmi-infotech-ahmedabad-delhi-gurgaon-kolkata-noida-greater-noida-0-to-3-yrs-jobid-SahSLevOb0FzpSvf__PLUS__uAgZw==&source=srp",
+                    "count_applied": 0,
+                    "roles": "\"Android / iOS Developer\"",
+                    "soft_skills": "",
+                    "job_location": "Ahmedabad (Gujarat), Delhi (Delhi), Gurgaon (Haryana), Kolkata (West Bengal), Noida/ Greater Noida (Uttar Pradesh)",
+                    "date_string": "2022-12-09 00:00:00.000",
+                    "closing_date": "28/01/2022",
+                    "key_skills": "Android Development,Ios,bigdata,Hadoop,Sqoop,Hdfs,Map Reduce,Hbase,Hive,Impala,Core Java,Mobile Development,Flume,Oozie,Mongodb,Heroku",
+                    "knowledge_domain": "Mobile",
+                    "ug": "",
+                    "pg": "",
+                    "doctorate": "",
+                    "competency": "",
+                    "related_technical_skills": "",
+                    "professional_certifications": "",
+                    "related_certifications": "",
+                    "company_description": "",
+                    "description_raw": "Job Description :\n- Require an Android/Flutter developer having 1.5 year(s) to 2 years of experience.\n- S/he must have the complete experience of executing a minimum two (2) mobile app projects using Flutter or ReactNative.\nSkills / Requirements :\n- Experience with Flutter or ReactNative\n- Must have experience with Koltlin.\n- Experience with Dart\n- Experience launching and managing Production mobile apps\n- Experience authoring, testing, and deploying code mission-critical applications\n- Basic Database concepts\n- OOPS concepts\n- Data Structures\n- Experience developing integrations with common APIs (e.g., Firebase, Google, etc.)\n- Awareness of Android or iOS platforms Latest Versions, Features of latest OS versions",
+                    "Transform_Salary_Bin": "Upto INR 600000 Year",
+                    "Transform_Experience_Bin": "0-2 Years",
+                    "job_description_summary": "",
+                    "matchPercent": 0,
+                    "saved": false,
+                    "applied": false
+                },
+                "sort": [
+                    "\"Android / iOS Developer\"",
+                    1
+                ]
+            }
+        ],
+        "filters": {
+            "Location": [
+                {
+                    "key": "India",
+                    "doc_count": 17047
+                }
+            ],
+            "Company": [
+                {
+                    "key": "Sp Solutions",
+                    "doc_count": 848
+                },
+                {
+                    "key": "Jobmirror Consultancy",
+                    "doc_count": 492
+                },
+                {
+                    "key": "Technopark Trivandrum",
+                    "doc_count": 425
+                },
+                {
+                    "key": "Citibank India",
+                    "doc_count": 392
+                },
+                {
+                    "key": "Buck Global Llc",
+                    "doc_count": 344
+                },
+                {
+                    "key": "Leading Asset Management Company",
+                    "doc_count": 339
+                },
+                {
+                    "key": "Mutualfundjobs.In",
+                    "doc_count": 257
+                },
+                {
+                    "key": "Bosch Ltd",
+                    "doc_count": 246
+                },
+                {
+                    "key": "Lifeinsurancejobs . In",
+                    "doc_count": 246
+                },
+                {
+                    "key": "Tata Communications Ltd",
+                    "doc_count": 205
+                }
+            ],
+            "Experience": [
+                {
+                    "key": "0-2 Years",
+                    "doc_count": 5157
+                },
+                {
+                    "key": "5-8 Years",
+                    "doc_count": 4769
+                },
+                {
+                    "key": "3-5 Years",
+                    "doc_count": 3566
+                },
+                {
+                    "key": "Above 8 Years",
+                    "doc_count": 3554
+                }
+            ],
+            "Education": [
+                {
+                    "key": "Any Graduate",
+                    "doc_count": 13218
+                },
+                {
+                    "key": "ME/ M.Tech./ MS (Engg/ Sciences)",
+                    "doc_count": 1055
+                },
+                {
+                    "key": "MBA/ PGDM",
+                    "doc_count": 578
+                },
+                {
+                    "key": "BE/ B.Tech (Engineering)",
+                    "doc_count": 524
+                },
+                {
+                    "key": "MCA/ PGDCA",
+                    "doc_count": 472
+                },
+                {
+                    "key": "CA (Chartered Accountant)",
+                    "doc_count": 211
+                },
+                {
+                    "key": "M.Sc. (Science)",
+                    "doc_count": 61
+                },
+                {
+                    "key": "Job Function:",
+                    "doc_count": 42
+                },
+                {
+                    "key": "BA (Arts)",
+                    "doc_count": 36
+                },
+                {
+                    "key": "BA (Arts),  12th & Not Pursuing Graduation                                                              (Arts/Humanities/Social Sciences,  Communication,  Language- Hindi                                                                  )",
+                    "doc_count": 33
+                }
+            ],
+            "Salary Range": [
+                {
+                    "key": "Upto INR 600000 Year",
+                    "doc_count": 1992
+                },
+                {
+                    "key": "INR 600000-900000 Year",
+                    "doc_count": 1203
+                },
+                {
+                    "key": "INR 900000-1200000 Year",
+                    "doc_count": 294
+                },
+                {
+                    "key": "INR 1200000-1500000 Year",
+                    "doc_count": 50
+                },
+                {
+                    "key": "INR 1500000-2500000 Year",
+                    "doc_count": 90
+                },
+                {
+                    "key": "INR 2500000-3500000 Year",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Above INR 3500000 Year",
+                    "doc_count": 30
+                }
+            ],
+            "Date Posted": [
+                {
+                    "key": "Last 24 hours",
+                    "doc_count": 0
+                },
+                {
+                    "key": "Last 48 hours",
+                    "doc_count": 0
+                },
+                {
+                    "key": "Last 7 days",
+                    "doc_count": 0
+                },
+                {
+                    "key": "Last 14 days",
+                    "doc_count": 0
+                },
+                {
+                    "key": "Last Month",
+                    "doc_count": 0
+                }
+            ],
+            "Skills": [
+                {
+                    "key": "(American Society For Quality) Asq Certified"
+                },
+                {
+                    "key": "3Com Certified Ip Telephony Nbx Expert"
+                },
+                {
+                    "key": "3Com Certified Ip Telephony Vcx Expert"
+                },
+                {
+                    "key": "Aca Instructor Certificate"
+                },
+                {
+                    "key": "Accp Certified"
+                }
+            ]
+        }
+    }
+}
